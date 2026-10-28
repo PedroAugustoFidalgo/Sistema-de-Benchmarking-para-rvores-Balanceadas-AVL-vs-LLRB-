@@ -141,6 +141,10 @@ EXIBIR_COMPARACOES
 EXIBIR_TEMPOS
 ```
 
+## Autor
+
+Pedro Augusto Carvalho de Freitas Gouveia Fidalgo
+
 ## Declaração do Uso de Inteligência Artificical
 
 O código foi **criado com auxílio de inteligência artificial**, bem como o README.
